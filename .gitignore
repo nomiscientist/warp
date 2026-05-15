@@ -67,3 +67,5 @@ __pycache__/
 
 # Project notes
 .note/
+config.bat
+node_modules
